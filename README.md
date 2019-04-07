@@ -31,7 +31,7 @@
 
 ## 声明
 
-仅用于学习用途，如有侵权请联系删除。E-mail：muouji@gmailcom
+仅用于学习用途，如有侵权请联系删除。E-mail：[lyle.lypm@gmail.com](mailto:lyle.lypm@gmail.com)
 
 ## 参与我们
 
