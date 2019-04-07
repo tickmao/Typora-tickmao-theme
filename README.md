@@ -26,3 +26,13 @@
 * 中文
 
 ![](https://i.loli.net/2019/04/07/5ca9e8905d90f.png)
+
+
+
+## 声明
+
+仅用于学习用途，如有侵权请联系删除。E-mail：muouji@gmailcom
+
+## 参与我们
+
+如果有任何想法或需求，可以在 [issue](https://github.com/tickmao/book_fairy/issues) 中告诉我，欢迎各种小伙伴踊跃留言。
