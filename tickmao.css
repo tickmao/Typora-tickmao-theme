@@ -796,6 +796,10 @@ footer {
     font-family: Helvetica, "Segoe UI", "Arial", sans-serif;
 }
 
+img {
+    zoom: 50%;
+}
+
 .file-node-content:hover .file-node-icon,
 .file-node-content:hover .file-node-open-state {
     visibility: visible;
