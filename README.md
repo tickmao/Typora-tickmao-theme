@@ -25,7 +25,7 @@
 
 * 中文
 
-![Chinese](https://ae01.alicdn.com/kf/H435aa71bab994753b90367d4a2725c4bn.jpg))
+![Chinese](https://ae01.alicdn.com/kf/H435aa71bab994753b90367d4a2725c4bn.jpg)
 
 
 
