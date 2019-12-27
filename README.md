@@ -19,13 +19,13 @@
 
 * 英文
 
-![English](https://ae01.alicdn.com/kf/He48309cd51ac471fb1e144b522c40b0e6.jpg)
+![English](https://ae01.alicdn.com/kf/H33ac9ced8ac648fab124af602a621b35w.png)
 
 
 
 * 中文
 
-![Chinese](https://ae01.alicdn.com/kf/Hc800881f44b349e5943e1ab8a70ad582B.jpg)
+![Chinese](https://ae01.alicdn.com/kf/H42b304c802ad44ecbea1e828ebe57ad5I.png)
 
 
 
